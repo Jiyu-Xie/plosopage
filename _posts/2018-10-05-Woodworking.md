@@ -11,7 +11,7 @@ Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nost
 <br/> 
 
 <div align="center">
-	<img src="{{ 'assets/images/fulls/carpentry/pro_bunnyChair01_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="WBunny Ears Chair" />
+	<img src="{{ 'assets/images/fulls/carpentry/pro_bunnyChair01_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Bunny Ears Chair" />
 	<br/> 
 	Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.
 	<br/> 
