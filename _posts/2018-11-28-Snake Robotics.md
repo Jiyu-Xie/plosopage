@@ -2,7 +2,7 @@
 title: Snake Robotics
 author: Jiyu-Xie
 layout: post
-icon: fa-map-o
+icon: fa-ellipsis-h
 icon-style: regular
 ---
 See the icon?
