@@ -2,7 +2,7 @@
 title: Science Fiction
 author: Jiyu-Xie
 layout: post
-icon: fa-magic
+icon: fa-space-shuttle
 icon-style: regular
 ---
 
