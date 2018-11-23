@@ -1,8 +1,8 @@
 ---
-title: Robotic Prosthetics
+title: Snake Robotics
 author: Jiyu-Xie
 layout: post
-icon: fa-wheelchair
+icon: fa-map-o
 icon-style: regular
 ---
 See the icon?
