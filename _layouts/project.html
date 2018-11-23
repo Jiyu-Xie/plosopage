@@ -1,0 +1,32 @@
+---
+layout: default
+---
+{%- assign _posts = site.posts | sort: 'date' | reverse -%} <!-- Left Bottom Side Category -->
+{%- include header.html scrolly_nav=_posts -%} <!-- Left Side Column -->
+
+<!-- Main -->
+<div id="main">
+	<!-- Roll Effect -->
+	{%- if page.content != "" -%}
+		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
+	{%- endif -%}
+	<!-- Posts List -->
+	{%- for _post in _posts -%}
+		{%- capture _title -%}
+			<a href="{{- _post.url | absolute_url -}}">{{- _post.title -}}</a>
+		{%- endcapture -%}
+		<!-- Author and Date Information -->
+		{%- capture _subtitle -%}
+			{% if _post.author -%}{{- _post.author }} | {% endif %}
+			{{- _post.date | date_to_long_string -}}
+		{%- endcapture -%}
+		<!-- Content -->
+		{%- capture _excerpt -%}<p>{{- _post.excerpt | strip_html | truncatewords: 100 -}}</p>{%- endcapture -%}
+		<!-- Detail's Link -->
+		{%- capture _link -%}<a href="{{- _post.url | absolute_url -}}">read more</a>{%- endcapture -%}
+		<!-- Content and Link -->
+		{%- assign _content = _excerpt | append: _link -%}
+		<!-- Right side's content-->
+		{%- include section.html title=_title subtitle=_subtitle content=_content -%}
+	{%- endfor -%}
+</div>
