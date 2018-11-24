@@ -20,18 +20,10 @@ We currently have two bakery managers, Cheng Tao (陶程) and Minmin Lin (林敏
 
 In the Zhiren Baking Room, we will teach you how to bake thought our “bake together” sessions. We have five sessions a week; each session consists of a two-hour meeting between the tutor (a very skilled baker) and a small group (1-6) of students (baking assistants). During each session, the baking assistants will follow instructions to complete a a baking project under the guidance ofupon by  the tutor. Sessions have gained their reputation because of the close relationship they maintain between the tutor and the student, and these baking skills have also been passed down from generation to generation. 
 	
-### Cixin Liu(刘慈欣), SUSTech Talk, Nov, 11, 2018. ###
-
+### Cixin Liu(刘慈欣), SUSTech Talk, Nov,11,2018. ###
 Every year, the Zhiren Baking Room hosts a variety of events — such as the Baking Festival every semester,  and Mooncake Making Classes for the Mid-Autumn Festival, we sell what we bake to the whole community. We even bake birthday cakes! One time, we baked a birthday cake for our headmaster Shiyi Chen.
 
-<iframe width="974" height="548" src="https://www.youtube.com/embed/gDooytREUrM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-### Photos & QR Code ###
-
-<div  align="center">    
-	<img src="{{ 'assets/images/fulls/greatSciFi_LiuCixin_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Zhiren Baking Room" />
-	<img src="{{ 'assets/images/fulls/interest_birthdayCake02_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Zhiren Baking Room" />
-	<img src="{{ 'assets/images/fulls/interest_moonCake_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Zhiren Baking Room" />
-	<img src="{{ 'assets/images/fulls/interest_fruitCake_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Zhiren Baking Room" />
-	<img src="{{ 'assets/images/fulls/interest_bakeQRCode_pic.jpg' | relative_url }}"  width = "400" height = "250" alt="Zhiren Baking Room" />
+<div  align="center">  
+	<iframe width="800" height="450" src="https://www.youtube.com/embed/gDooytREUrM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+	<img src="{{ 'assets/images/fulls/greatSciFi_LiuCixin_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Cixin Liu(刘慈欣), SUSTech Talk, Nov,11,2018." />
 </div>
