@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Article
 subtitle: The Best Moments in My Life
 layout: "page"
-icon: fa-bold
+icon: fa-book
 order: 3
 ---
 
