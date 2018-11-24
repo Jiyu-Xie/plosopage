@@ -90,7 +90,53 @@ icon-style: regular
 	<br/> 
 	Microrobotics and nanorobotics have the potential to perform many tasks in important biomedical applications. These micro/nano-machines are capable of propulsion at low Reynolds number fluidic environments by an external rotating magnetic field. For decades, roboticists have focused their efforts on rigid systems that enable programmable, automated action, and sophisticated control with maximal precision and speed. Meanwhile, it is also critical to develop new soft and flexible architectures and potential modes that are small, soft, adaptive, and stimuli-responsive, for the structure and kinetic optimization. In this report, by combing the concepts from micro/nano-robotics and stimuli-responsive shape-shifting materials, scientists designed some ‘smart’ robotics known as Origami Inspired Soft Micro/Nano-robotics, with its potential fabrication and control methods. This origami inspired soft small scale magnetic robots are capable of efficient propulsion at low Reynolds numbers and cargo delivery. This new micro/nano-robotics mechanism and its attractive performance could provide guidance toward prospective practical design for biomedical operation at the micro/nano-scale.
 	<br/> <br/>
-	
+	<!-- Image -->
+<h3>My Micro-origami-robotics Mechanism Design Idea</h3>
+<div class="row">
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/fulls/essays/pro_180611_microOribot_L01_pic.gif' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>Ipsum Feugiat</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/fulls/essays/pro_180611_microOribot_L01_pic.png' | relative_url }}" alt="Rhoncus Semper" /></a>
+        <header>
+          <h3>Rhoncus Semper</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/fulls/essays/pro_180611_microOribot_L02_pic.gif' | relative_url }}" alt="Magna Nullam" /></a>
+        <header>
+          <h3>Magna Nullam</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/fulls/essays/pro_180611_microOribot_L02_pic.png' | relative_url }}" alt="Natoque Vitae" /></a>
+        <header>
+          <h3>Natoque Vitae</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u$ 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/fulls/essays/pro_180611_microOribot_L03_pic.gif' | relative_url }}" alt="Dolor Penatibus" /></a>
+        <header>
+          <h3>Dolor Penatibus</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/fulls/essays/pro_180611_microOribot_L03_pic.png' | relative_url }}" alt="Orci Convallis" /></a>
+        <header>
+          <h3>Orci Convallis</h3>
+        </header>
+      </div>
+    </div>
+</div>
+  
 	<h1 style="font-family:verdana">Evaporative Cooling For A Cup with Hot Water </h1> <br/>
 	<img src="{{ 'assets/images/fulls/essays/pro_180613_evaporativeCoolingSensingTech_pic.png' | relative_url }}"  width = "800" height = "500" alt="Evaporative Cooling For A Cup with Hot Water" />
 	<br/> 
