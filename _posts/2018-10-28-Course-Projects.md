@@ -6,7 +6,6 @@ icon: fa-plug
 icon-style: regular
 ---
 
-
 <div align="center">
 	<h1 style="font-family:verdana">Iron-sulfur and Iron-sulfur protein </h1> <br/>
 	<img src="{{ 'assets/images/fulls/essays/pro_160114_ironSulfurProtein_pic.png' | relative_url }}"  width = "800" height = "500" alt="Iron-sulfur and Iron-sulfur protein" />
