@@ -2,7 +2,7 @@
 title: Street Dance
 author: Jiyu-Xie
 layout: post
-icon: fa-grav
+icon: fa-heartbeat
 icon-style: regular
 ---
 
