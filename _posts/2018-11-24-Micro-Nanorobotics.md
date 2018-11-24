@@ -50,5 +50,20 @@ Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nost
 	<br/> 
 	An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
 	<br/> 
+	
+	<img src="{{ 'assets/images/fulls/ukei-microbots/research_microbots09_pic.jpg' | relative_url }}"  width = "800" height = "600" alt="Bunny Ears Chair" />
+	<br/> 
+	An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
+	<br/> 
+	
+	<img src="{{ 'assets/images/fulls/ukei-microbots/research_microbots10_pic.jpg' | relative_url }}"  width = "800" height = "600" alt="Bunny Ears Chair" />
+	<br/> 
+	An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
+	<br/> 
+	
+	<img src="{{ 'assets/images/fulls/ukei-microbots/research_microbots11_pic.jpg' | relative_url }}"  width = "800" height = "600" alt="Bunny Ears Chair" />
+	<br/> 
+	An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
+	<br/> 
 
 </div>
