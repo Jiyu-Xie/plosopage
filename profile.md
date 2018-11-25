@@ -34,6 +34,8 @@ https://mp.weixin.qq.com/s?__biz=MzIzMzMyNDY4NA==&mid=2247486134&idx=2&sn=2e1f31
 https://mp.weixin.qq.com/s?__biz=MzIzMzMyNDY4NA==&mid=2247486166&idx=2&sn=4cb8a73bb95ce95c17a67916cbafbe43&chksm=e8862335dff1aa230700cc9cbb22c9f6e9ccd09687d26017c76f419deccba125fe876f069ec7&mpshare=1&scene=23&srcid=1124GIPoFknIMVewNgZSmFTW#rd) <br/> 
 [(6)SUSTech Daily(南科新知):《初冬小园寓目》2018-11-16.](
 https://mp.weixin.qq.com/s?__biz=MzIzMzMyNDY4NA==&mid=2247486359&idx=3&sn=796e813d5b2e7070a3178427df2b477b&chksm=e8862274dff1ab62f91c5cf3eae49ef1833807e393c9ee07d20d6f1ec9f09ef2adbecc7f38a1&mpshare=1&scene=23&srcid=1124rJT4QXCu6jcBsT4T4HZM#rd) <br/> 
+[(7)SUSTech Daily(南科新知):《锁孔》2018-11-24.](
+https://mp.weixin.qq.com/s?t=pages/image_detail&scene=23&__biz=MzIzMzMyNDY4NA==&mid=2247486426&idx=1&sn=19acdea6d041a7ac962ecddbfc7b247a#wechat_redirect) <br/> 
 3. Interview: <br/>
 [(1)Dream Big, but Start Small ——an Interview of MEE Assistant Professor U Kei Cheang - Mech-People - SUSTC Department of Mechanical and Energy Engineering. 2018-04-25.](http://mee.sustc.edu.cn/2018/spotlight_0425/609.html) <br/>
 [(2)SUSTech News Agency(南科大新闻社): Prof. Jianwei Pan talked about the Development and Application of Quantum Science at the “Southern China Science Forum” - Latest - SUSTC. 2016-05-20.](http://www.sustc.edu.cn/en/news_events_1_1/1340) <br/> 
