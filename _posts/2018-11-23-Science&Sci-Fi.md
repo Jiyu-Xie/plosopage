@@ -25,5 +25,9 @@ Every year, the Zhiren Baking Room hosts a variety of events — such as the Bak
 
 <div  align="center">  
 	<iframe width="800" height="450" src="https://www.youtube.com/embed/gDooytREUrM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-	<img src="{{ 'assets/images/fulls/greatSciFi_LiuCixin_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Cixin Liu(刘慈欣), SUSTech Talk, Nov,11,2018." />
+	<img src="{{ 'assets/images/fulls/sci-fi/interest_scifi01_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Cixin Liu(刘慈欣), SUSTech Talk, Nov,11,2018." />
+	<img src="{{ 'assets/images/fulls/sci-fi/interest_scifi02_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Cixin Liu(刘慈欣), SUSTech Talk, Nov,11,2018." />
+	<img src="{{ 'assets/images/fulls/sci-fi/interest_scifi03_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Cixin Liu(刘慈欣), SUSTech Talk, Nov,11,2018." />
+	<img src="{{ 'assets/images/fulls/sci-fi/interest_scifi04_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Cixin Liu(刘慈欣), SUSTech Talk, Nov,11,2018." />
+	<img src="{{ 'assets/images/fulls/sci-fi/interest_scifi05_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Cixin Liu(刘慈欣), SUSTech Talk, Nov,11,2018." />
 </div>
