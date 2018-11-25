@@ -41,7 +41,7 @@ https://mp.weixin.qq.com/s?t=pages/image_detail&scene=23&__biz=MzIzMzMyNDY4NA==&
 [(2)SUSTech News Agency(南科大新闻社): Prof. Jianwei Pan talked about the Development and Application of Quantum Science at the “Southern China Science Forum” - Latest - SUSTC. 2016-05-20.](http://www.sustc.edu.cn/en/news_events_1_1/1340) <br/> 
 [(3)SUSTech News Agency(南科大新闻社): Young Female Scientist Yan Ning Talks about the Beauty of Biological Structures at SUSTech Lectures - Event Review - SUSTC. 2016-09-26.](http://www.sustc.edu.cn/en/research_jiaoliu/1680) <br/>
 [(4)SUSTech News Agency(南科大新闻社): SUSTC Model Club: We Began in the Dream of Flying - Campus Life - SUSTC. 2015-11-23.](http://www.sustc.edu.cn/en/news_events_1_3/1027) <br/>
-4. Flower Arrangement:
+4. Flower Arrangement: <br/>
 [(1)SUSTech Daily(南科新知): 花艺课 | 如何在南科大过得精致而优雅？ 2018-08-09.](
 https://mp.weixin.qq.com/s?__biz=MzIzMzMyNDY4NA==&mid=2247485824&idx=1&sn=b8dc799fc0ec6f32563271e07d9544f3&chksm=e8862063dff1a9755ff1a865974e0961e0245433e299c9ad74af377ddc2bbf3904103e4d3e5a&mpshare=1&scene=23&srcid=1124UyghF5F1IteC2rG8fCOB#rd) <br/>
 
